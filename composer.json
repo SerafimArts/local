@@ -1,0 +1,5 @@
+{
+    "name": "local/local",
+    "description": "Local stub for packagist.org",
+    "type": "metapackage"
+}
